@@ -1,0 +1,9 @@
+    java file
+javac filename.java
+    Generate a class file
+java filename(class)    
+    
+
+javac -d . filename.java
+javac -d name filename.java
+javac -d . *.java
